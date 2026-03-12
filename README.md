@@ -1,4 +1,5 @@
 # Maya Joint Labeling Python Script
+
 Sets joint labels as type "object" and uses its name as the name of the label. The side set by left and right name parameter.
 Must one joint selected to run.
 
@@ -30,3 +31,7 @@ hierarchy: if True selection and its children will be used, replace True with Fa
 
 1. Make sure a joint is selected before running
 2. if left and right side do not use "r_" and "l_" in naming, set names in parameter (Check Set Parameters on line 73 section)
+
+##Licensing
+###Made with no ai or vibe coding
+Can use anywhere. Just credit original creator if used for commercial use.
